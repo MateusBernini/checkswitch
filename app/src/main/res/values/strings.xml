@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">checkeswitch</string>
+    <string name="config">Configurações</string>
+    <string name="item1">Item1</string>
+    <string name="item2">Item2</string>
+    <string name="item3">Item3</string>
+    <string name="button">ENVIAR</string>
+    <string name="switch1">Acionar1</string>
+    <string name="switch2">Acionar2</string>
+    <string name="switch3">Acionar3</string>
+    <string name="switch4">Acionar4</string>
+    <string name="sw1on">Acionar1 HABILITADO</string>
+    <string name="sw1off">Acionar1 DESABILITADO</string>
+    <string name="sw2on">Acionar2 HABILITADO</string>
+    <string name="sw2off">Acionar2 DESABILITADO</string>
+    <string name="sw3on">Acionar3 HABILITADO</string>
+    <string name="sw3off">Acionar3 DESABILITADO</string>
+    <string name="sw4on">Acionar4 HABILITADO</string>
+    <string name="sw4off">Acionar4 DESABILITADO</string>
+    <string name="txtview">Digite seu nome:</string>
+
+</resources>
